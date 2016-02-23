@@ -1,0 +1,16 @@
+/*layouts/content.php*/
+
+.content {
+    min-height: 0px;
+    padding: 15px;
+}
+.content-logo {
+    font-size: 2.5vw !important;
+    padding-left: 20px;
+}
+
+.content-text {
+    font-size: 1vw !important;
+    padding-left: 15px;
+}
+
