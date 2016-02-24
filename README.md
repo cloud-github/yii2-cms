@@ -1,7 +1,7 @@
-Yii 2 CMS
+Yii 2 CMS ( An alternative CMS for writesdown )
+------------------------------------------------
 
-
-Yii 2 CMS is a skeleton Yii 2 application with Role Based Access Authorization for making complex CMS based applications.
+Yii 2 CMS is a skeleton Yii 2 application with Role Based Access Authorization for making light CMS based applications.
 
 The CMS includes three tiers: front end, back end, and console, each of which
 is a separate Yii application.
@@ -30,3 +30,6 @@ the installed application. You only need to do these once for all.
 - for backend  using the URL `http://your_site/admin` username : admin and password : superadmin
 
 
+SOME KEY ADDITIONS:
+
+1. Elastic Search
