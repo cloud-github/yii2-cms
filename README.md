@@ -1,5 +1,5 @@
 Yii 2 CMS
-===================================
+============================
 
 Yii 2 CMS is a skeleton Yii 2 application with Role Based Access Authorization for making complex CMS based applications.
 
