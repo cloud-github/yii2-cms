@@ -28,6 +28,6 @@ the installed application. You only need to do these once for all.
 4. Set document roots of your Web server:
 
 - for frontend using the URL `http://your_site/`
-- for backend  using the URL `http://your_site/admin`   username : admin and password : superadmin
+- for backend  using the URL `http://your_site/admin` username : admin and password : superadmin
 
 
