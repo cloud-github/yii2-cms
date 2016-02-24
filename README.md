@@ -1,8 +1,7 @@
-Yii 2 Advanced Application Template
+Yii 2 CMS Advanced Application Template
 ===================================
 
-Yii 2 Advanced Application Template is a skeleton Yii 2 application best for
-developing complex Web applications with multiple tiers.
+Yii 2 CMS is a skeleton Yii 2 application with role based access authorization for making complex CMS based applications.
 
 The template includes three tiers: front end, back end, and console, each of which
 is a separate Yii application.
@@ -41,7 +40,6 @@ frontend
     runtime/             contains files generated during runtime
     views/               contains view files for the Web application
     web/                 contains the entry script and Web resources
-    widgets/             contains frontend widgets
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 tests                    contains various tests for the advanced application
@@ -90,8 +88,7 @@ the installed application. You only need to do these once for all.
 3. Apply migrations with console command `yii migrate`. This will create tables needed for the application to work.
 4. Set document roots of your Web server:
 
-- for frontend `/path/to/yii-application/frontend/web/` and using the URL `http://frontend/`
-- for backend `/path/to/yii-application/backend/web/` and using the URL `http://backend/`
+- for frontend using the URL `http://your_site/`
+- for backend  using the URL `http://your_site/admin`   username : admin and password : superadmin
 
-To login into the application, you need to first sign up, with any of your email address, username and password.
-Then, you can login into the application with same email address and password at any time.
+
