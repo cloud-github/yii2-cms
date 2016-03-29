@@ -1,4 +1,4 @@
-Yii 2 CMS ( An alternative CMS for writesdown )
+Yii 2 CMS 
 ------------------------------------------------
 
 Yii 2 CMS is a skeleton Yii 2 application with Role Based Access Authorization for making light CMS based applications.
